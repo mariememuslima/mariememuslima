@@ -1,6 +1,10 @@
 - 👋 Hi, I’m @mariememuslima
 - 👀 I’m interested in python, books and korean dramas
-- 🌱 I’m currently learning a lot of things about data catalog and governacy
+- 👩🏿‍🎓 I was in the coding school **Sonatel Academy** as a developper/data artisan
+- 👩🏿‍🎓 I also graduate in documents management
+- 💪🏿 I'm a python developer working with Flask
+- 📚 I learn fast and efficiently
+- 🌱 I’m currently working and learning a lot of things about data catalog and governacy
 - 💞️ I’m looking to collaborate on datas and python projects
 - 📫 You can reach me through my email : mariemepouye2@gmail.com
 
