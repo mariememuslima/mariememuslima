@@ -3,6 +3,7 @@
 - 👩🏿‍🎓 I was in the coding school **Sonatel Academy** as a developper/data artisan
 - 👩🏿‍🎓 I also graduate in documents management
 - 💪🏿 I'm a python developer working with Flask
+- 💪🏿 I'm a scala developer (using it for data engineering with Hadoop and Hive)
 - 📚 I learn fast and efficiently
 - 🌱 I’m currently working and learning a lot of things about data catalog and data governacy
 - 💞️ I’m looking to collaborate on datas and python projects
